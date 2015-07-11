@@ -1,10 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# This is a simple port-forward / proxy, written using only the default python
-# library. If you want to make a suggestion or fix something you can contact-me
-# at voorloop_at_gmail.com
-# Distributed over IDC(I Don't Care) license
+# based on
+# https://gist.github.com/voorloopnul/415cb75a3e4f766dc590#file-proxy-py
+
 import socket
 import select
 import time
